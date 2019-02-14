@@ -1,0 +1,20 @@
+{
+  "name": "emailapi",
+  "version": "1.0.0",
+  "description": "Email API for sentiment analysis model collects all emails from email provider",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blessed-tawanda",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "emailjs": "^2.2.0",
+    "express": "^4.16.4",
+    "imap-simple": "^4.3.0",
+    "mailparser": "^2.4.3",
+    "mongoose": "^5.4.7"
+  }
+}

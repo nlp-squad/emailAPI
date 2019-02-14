@@ -1,0 +1,50 @@
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: EmailSentimentAnalysisApp.emails index: message_1 dup key: { : null }"}
+{"driver":true,"name":"MongoError","index":0,"code":17280,"errmsg":"WiredTigerIndex::insert: key too large to index, failing  1579 { : \"Adien Pierce\n\n\nAdd ways for us to make sure it's you\nadienpiercetest@gmail.com\n\n\nUsers with extra ways to verify their identity are far less likely to...\" }"}
+{"driver":true,"name":"MongoError","index":0,"code":17280,"errmsg":"WiredTigerIndex::insert: key too large to index, failing  1579 { : \"Adien Pierce\n\n\nAdd ways for us to make sure it's you\nadienpiercetest@gmail.com\n\n\nUsers with extra ways to verify their identity are far less likely to...\" }"}
+{"driver":true,"name":"MongoError","index":0,"code":17280,"errmsg":"WiredTigerIndex::insert: key too large to index, failing  1579 { : \"Adien Pierce\n\n\nAdd ways for us to make sure it's you\nadienpiercetest@gmail.com\n\n\nUsers with extra ways to verify their identity are far less likely to...\" }"}
+{"source":"timeout","time":1550067960062}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550131277560}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550131535037}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550131548472}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550131557763}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550131582871}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550131592181}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131657603}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131669118}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131680249}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131691021}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131800183}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131878500}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550131896531}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550132164468}
+{"type":"no","textCode":"ALERT","source":"authentication","time":1550132368026}
