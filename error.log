@@ -51,3 +51,5 @@
 {"type":"no","textCode":"ALERT","source":"authentication","time":1550133827540}
 {"type":"no","textCode":"ALERT","source":"authentication","time":1550133861350}
 {"driver":true,"name":"MongoError","index":0,"code":17280,"errmsg":"WiredTigerIndex::insert: key too large to index, failing  1579 { : \"Adien Pierce\n\n\nAdd ways for us to make sure it's you\nadienpiercetest@gmail.com\n\n\nUsers with extra ways to verify their identity are far less likely to...\" }"}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550218561074}
+{"code":"SELF_SIGNED_CERT_IN_CHAIN","source":"socket","time":1550218712010}
